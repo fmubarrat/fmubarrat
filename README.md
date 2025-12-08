@@ -15,7 +15,7 @@ Now I'm applying for **Master's programs in Computer Vision** to formalize my sk
 <table>
   <tr>
     <td width="100%">
-      <h3 align="left">🩸 HemoScout - Dengue Platelet Analyzer</h3>
+      <h3 align="left">🩸 Platelet Vision - Dengue Platelet Analyzer</h3>
       <p><em>AI-powered platelet morphometry system for dengue recovery prediction using microscopy images. Novel RBC-based auto-calibration eliminates manual microscope settings.</em></p>
       
       <p>
