@@ -1,27 +1,97 @@
-### Hi there, I'm Md Fayek Mubarrat Jamee 👋
+### 👋 About Me
 
-**Assistant Manager (Technical Lead) @ Ernst & Young | Computer Vision Researcher**
+Hi, I'm **Fayek** — a software engineering manager at **Ernst & Young** who discovered my true calling: **applying AI to save lives, not just optimize business processes.**
 
-I am an Enterprise Software Architect bridging the gap between high-scale cloud systems and applied **Medical/Agricultural AI**. Currently focused on solving resource-constrained diagnostic challenges using **Geometric Morphometrics** and **Deep Learning**.
+After five years building enterprise systems, I witnessed **Dhaka's 2023 dengue outbreak** claim over 1,600 lives. Clinics ran out of diagnostic supplies. Patients went untreated. I realized I needed to pivot.
 
-- 🔭 I’m currently working on **Automated Hematology & Food Safety AI**.
-- 🎓 Applying for **MSc in Image Processing & Computer Vision**.
-- 💼 Technical Stack: **Java (Spring Boot), Python (Flask/YOLO), Angular, Azure Cloud**.
+So I taught myself **Computer Vision**. I built **HemoScout** — a dengue diagnostic system achieving **96.56% detection accuracy**. I validated it against medical baselines. I proved that self-taught passion can produce research-grade results.
 
----
-
-### 🔬 Featured Research Projects
-
-| **[PlateletVision (Medical AI)](https://github.com/fmubarrat/PlateletVision)** | **[FishMeter (Agri-Tech)](https://github.com/fmubarrat/FishMeter)** |
-| :--- | :--- |
-| ![Platelet](https://github.com/fmubarrat/PlateletVision/blob/main/samples/demo_result.jpg?raw=true) | ![Fish](https://github.com/fmubarrat/FishMeter/blob/main/samples/demo_heatmap.jpg?raw=true) |
-| **Automated Giant Platelet Detection** | **Non-Invasive Freshness Assessment** |
-| • **Tech:** YOLOv8, RBC Auto-Calibration, Flask.<br>• **Math:** Geometric Morphometrics (Oblate Spheroid).<br>• **Result:** 96.5% mAP with <3% volumetric error. | • **Tech:** K-Means Clustering, HSV Analysis, Angular.<br>• **Math:** Colorimetric Statistics & Segmentation.<br>• **Result:** Real-time grading + Market Price scraping. |
-| [View Code & Validation](https://github.com/fmubarrat/PlateletVision) | [View Code & Validation](https://github.com/fmubarrat/FishMeter) |
+Now I'm applying for **Master's programs in Computer Vision** to formalize my skills and pursue a PhD in medical image analysis, with the ultimate goal of building AI systems for outbreak response in resource-limited settings.
 
 ---
 
-### 🛠️ Technical Capabilities
+### 🔬 Research Projects
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="left">🩸 HemoScout - Dengue Platelet Analyzer</h3>
+      <p><em>AI-powered platelet morphometry system for dengue recovery prediction using microscopy images. Novel RBC-based auto-calibration eliminates manual microscope settings.</em></p>
+      
+      <p>
+        <img src="https://img.shields.io/badge/AI-YOLOv8-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Vision-OpenCV-green?style=flat-square">
+        <img src="https://img.shields.io/badge/Domain-Medical_Imaging-purple?style=flat-square">
+        <img src="https://img.shields.io/badge/Tech-Python_Flask-yellow?style=flat-square">
+        <img src="https://img.shields.io/badge/Frontend-Angular-red?style=flat-square">
+      </p>
+
+      <br>
+
+      | **Metric** | **Result** |
+      | :--- | :--- |
+      | **Detection Accuracy** | **96.56% mAP@50** |
+      | **Morphometric Validation** | **7.01 fL MPV** (Clinical Ref: 7.2-11.7 fL) |
+      | **Processing Speed** | **84ms** per image (Real-time) |
+      | **Dataset** | BCCD (60 images, 907 cells) |
+
+      <br>
+      <p><strong>Impact:</strong> Reagent-free testing ($0 vs $5-10 per test) enabling outbreak response in resource-limited settings.</p>
+      
+      <p>
+        <a href="https://github.com/fmubarrat/PlateletVision">
+          <img src="https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge">
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🎥_Demo-Watch_Video-red?style=for-the-badge">
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/📄_Paper-Read_Preprint-blue?style=for-the-badge">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="left">🐟 Fish Meter - Quality Assessment System</h3>
+      <p><em>Multi-modal computer vision system for fish freshness detection with real-time market price intelligence. Novel head-weighted sampling and silver fish adaptation algorithms.</em></p>
+      
+      <p>
+        <img src="https://img.shields.io/badge/AI-YOLO-blue?style=flat-square">
+        <img src="https://img.shields.io/badge/Vision-OpenCV-green?style=flat-square">
+        <img src="https://img.shields.io/badge/Algo-K_Means-orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Tech-Flask-black?style=flat-square">
+        <img src="https://img.shields.io/badge/Data-Web_Scraping-lightgrey?style=flat-square">
+      </p>
+
+      <br>
+
+      | **Metric** | **Result** |
+      | :--- | :--- |
+      | **Species Accuracy** | **82%** (12+ freshwater species) |
+      | **Freshness Correlation** | **0.85** with human expert ratings |
+      | **Price Sources** | 3 Major Retailers (Real-time sync) |
+
+      <br>
+      <p><strong>Impact:</strong> Empowers consumers to save ৳50-100 per purchase through informed decision-making and chemical-free checking.</p>
+      
+      <p>
+        <a href="https://github.com/fmubarrat/FishMeter">
+          <img src="https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
@@ -30,13 +100,7 @@ I am an Enterprise Software Architect bridging the gap between high-scale cloud 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-![Fayek's Stats](https://github-readme-stats.vercel.app/api?username=fmubarrat&show_icons=true&theme=minimal)
-
----
-*Open for research collaborations in Computer Vision & Medical Imaging.*
+*Open for research collaborations.*
 [LinkedIn](https://www.linkedin.com/in/md-fayek-mubarrat-jamee/) • [Email](mailto:fmubarrat@gmail.com)
