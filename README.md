@@ -1,93 +1,25 @@
-### 👋 About Me
+### Hi there, I'm Md Fayek Mubarrat Jamee 👋
 
-Hi, I'm **Fayek** — a software engineering manager at **Ernst & Young** who discovered my true calling: **applying AI to save lives, not just optimize business processes.**
+**Assistant Manager (Technical Lead) @ Ernst & Young | Independent Computer Vision Researcher**
 
-After five years building enterprise systems, I witnessed **Dhaka's 2023 dengue outbreak** claim over 1,600 lives. Clinics ran out of diagnostic supplies. Patients went untreated. I realized I needed to pivot.
+I am an Enterprise Software Architect bridging the gap between high-scale cloud systems and applied **Medical/Agricultural AI**. Currently focused on solving resource-constrained diagnostic challenges using **Geometric Morphometrics** and **Deep Learning**.
 
-So I taught myself **Computer Vision**. I built **HemoScout** — a dengue diagnostic system achieving **96.56% detection accuracy**. I validated it against medical baselines. I proved that self-taught passion can produce research-grade results.
+<div align="center">
 
-Now I'm applying for **Master's programs in Computer Vision** to formalize my skills and pursue a PhD in medical image analysis, with the ultimate goal of building AI systems for outbreak response in resource-limited settings.
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio_Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fmubarrat.github.io/portfolio/)
+
+</div>
 
 ---
 
-### 🔬 Research Projects
+### 🔬 Featured Research
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="left">🩸 Platelet Vision - Dengue Platelet Analyzer</h3>
-      <p><em>AI-powered platelet morphometry system for dengue recovery prediction using microscopy images. Novel RBC-based auto-calibration eliminates manual microscope settings.</em></p>
-      
-      <p>
-        <img src="https://img.shields.io/badge/AI-YOLOv8-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Vision-OpenCV-green?style=flat-square">
-        <img src="https://img.shields.io/badge/Domain-Medical_Imaging-purple?style=flat-square">
-        <img src="https://img.shields.io/badge/Tech-Python_Flask-yellow?style=flat-square">
-        <img src="https://img.shields.io/badge/Frontend-Angular-red?style=flat-square">
-      </p>
-
-      <br>
-
-      | **Metric** | **Result** |
-      | :--- | :--- |
-      | **Detection Accuracy** | **96.56% mAP@50** |
-      | **Morphometric Validation** | **7.01 fL MPV** (Clinical Ref: 7.2-11.7 fL) |
-      | **Processing Speed** | **84ms** per image (Real-time) |
-      | **Dataset** | BCCD (60 images, 907 cells) |
-
-      <br>
-      <p><strong>Impact:</strong> Reagent-free testing ($0 vs $5-10 per test) enabling outbreak response in resource-limited settings.</p>
-      
-      <p>
-        <a href="https://github.com/fmubarrat/PlateletVision">
-          <img src="https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge">
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/🎥_Demo-Watch_Video-red?style=for-the-badge">
-        </a>
-        <a href="#">
-          <img src="https://img.shields.io/badge/📄_Paper-Read_Preprint-blue?style=for-the-badge">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="left">🐟 Fish Meter - Quality Assessment System</h3>
-      <p><em>Multi-modal computer vision system for fish freshness detection with real-time market price intelligence. Novel head-weighted sampling and silver fish adaptation algorithms.</em></p>
-      
-      <p>
-        <img src="https://img.shields.io/badge/AI-YOLO-blue?style=flat-square">
-        <img src="https://img.shields.io/badge/Vision-OpenCV-green?style=flat-square">
-        <img src="https://img.shields.io/badge/Algo-K_Means-orange?style=flat-square">
-        <img src="https://img.shields.io/badge/Tech-Flask-black?style=flat-square">
-        <img src="https://img.shields.io/badge/Data-Web_Scraping-lightgrey?style=flat-square">
-      </p>
-
-      <br>
-
-      | **Metric** | **Result** |
-      | :--- | :--- |
-      | **Species Accuracy** | **82%** (12+ freshwater species) |
-      | **Freshness Correlation** | **0.85** with human expert ratings |
-      | **Price Sources** | 3 Major Retailers (Real-time sync) |
-
-      <br>
-      <p><strong>Impact:</strong> Empowers consumers to save ৳50-100 per purchase through informed decision-making and chemical-free checking.</p>
-      
-      <p>
-        <a href="https://github.com/fmubarrat/FishMeter">
-          <img src="https://img.shields.io/badge/📂_GitHub-View_Code-black?style=for-the-badge">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+| **[PlateletVision (Medical AI)](https://github.com/fmubarrat/PlateletVision)** | **[FishMeter (Agri-Tech)](https://github.com/fmubarrat/FishMeter)** |
+| :--- | :--- |
+| <img src="https://github.com/fmubarrat/PlateletVision/blob/main/samples/plateletVision_Demo_ScreenShot.jpg" width="100%"> | <img src="https://github.com/fmubarrat/FishMeter-Non-Invasive-Quality-Assessment-AI/blob/main/samples/Demo%20Screenshot%201.jpg" width="100%"> |
+| **Automated Giant Platelet Detection** | **Non-Invasive Freshness Assessment** |
+| • **Tech:** YOLOv8, RBC Auto-Calibration, Flask.<br>• **Math:** Geometric Morphometrics (Oblate Spheroid).<br>• **Result:** 96.5% mAP with <3% volumetric error. | • **Tech:** K-Means Clustering, HSV Analysis, Angular.<br>• **Math:** Colorimetric Statistics & Segmentation.<br>• **Result:** Real-time grading + Market Price scraping. |
+| [View Code & Validation](https://github.com/fmubarrat/PlateletVision) | [View Code & Validation](https://github.com/fmubarrat/FishMeter) |
 
 ---
 
@@ -102,5 +34,5 @@ Now I'm applying for **Master's programs in Computer Vision** to formalize my sk
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
-*Open for research collaborations.*
+*Open for research collaborations in Computer Vision & Medical Imaging.*
 [LinkedIn](https://www.linkedin.com/in/md-fayek-mubarrat-jamee/) • [Email](mailto:fmubarrat@gmail.com)
