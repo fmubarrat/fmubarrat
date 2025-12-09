@@ -14,12 +14,12 @@ I am an Enterprise Software Architect bridging the gap between high-scale cloud 
 
 ### 🔬 Featured Research
 
-| **[PlateletVision (Medical AI)](https://github.com/fmubarrat/PlateletVision)** | **[FishMeter (Agri-Tech)](https://github.com/fmubarrat/FishMeter)** |
+| **[PlateletVision (Medical AI)](https://github.com/fmubarrat/PlateletVision)** | **[FishMeter (Agri-Tech)](https://github.com/fmubarrat/FishMeter-Non-Invasive-Quality-Assessment-AI)** |
 | :--- | :--- |
 | <img src="https://github.com/fmubarrat/PlateletVision/blob/main/samples/plateletVision_Demo_ScreenShot.jpg" width="100%"> | <img src="https://github.com/fmubarrat/FishMeter-Non-Invasive-Quality-Assessment-AI/blob/main/samples/Demo%20Screenshot%201.jpg" width="100%"> |
 | **Automated Giant Platelet Detection** | **Non-Invasive Freshness Assessment** |
 | • **Tech:** YOLOv8, RBC Auto-Calibration, Flask.<br>• **Math:** Geometric Morphometrics (Oblate Spheroid).<br>• **Result:** 96.5% mAP with <3% volumetric error. | • **Tech:** K-Means Clustering, HSV Analysis, Angular.<br>• **Math:** Colorimetric Statistics & Segmentation.<br>• **Result:** Real-time grading + Market Price scraping. |
-| [View Code & Validation](https://github.com/fmubarrat/PlateletVision) | [View Code & Validation](https://github.com/fmubarrat/FishMeter) |
+| [View Code & Validation](https://github.com/fmubarrat/PlateletVision) | [View Code & Validation](https://github.com/fmubarrat/FishMeter-Non-Invasive-Quality-Assessment-AI) |
 
 ---
 
