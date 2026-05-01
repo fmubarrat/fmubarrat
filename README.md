@@ -6,9 +6,9 @@ I build computer vision systems that make expert-level health assessments access
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/ _Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fmubarrat.github.io/portfolio/)
-[![CV](https://img.shields.io/badge/ _Download_CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://fmubarrat.github.io/portfolio/Jamee_CV_2025.pdf)
-[![Email](https://img.shields.io/badge/ _Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmubarrat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fmubarrat.github.io/portfolio/)
+[![CV](https://img.shields.io/badge/Download_CV-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://fmubarrat.github.io/portfolio/Jamee_CV_2025.pdf)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmubarrat@gmail.com)
 
 </div>
 
