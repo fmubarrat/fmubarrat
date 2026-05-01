@@ -24,7 +24,7 @@ I build computer vision systems that make expert-level health assessments access
 
 ### Featured Research
 
-#### [Parkinson's Motor Assessment — Drawing Product to Process](https://github.com/fmubarrat)
+#### [Parkinson's Motor Assessment — Drawing Product to Process](https://github.com/fmubarrat/Parkinsons-Hand-Kinematic-Analysis-Smartphone)
 
 <table>
 <tr><td>
